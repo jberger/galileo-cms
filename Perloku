@@ -1,2 +1,2 @@
 #!/bin/sh
-./myapp.pl daemon -l http://*:80
+./app.pl daemon -l http://*:80
