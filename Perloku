@@ -1,2 +1,2 @@
 #!/bin/sh
-galileo daemon -l http://*:80
+./myapp.pl daemon -l http://*:80
