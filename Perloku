@@ -1,0 +1,2 @@
+#!/bin/sh
+galileo daemon -l http://*:80
