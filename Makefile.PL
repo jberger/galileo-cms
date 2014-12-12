@@ -6,6 +6,6 @@ WriteMakefile(
   VERSION      => '1.0',
   AUTHOR       => 'Joel Berger <joel.a.berger@gmail.com>',
   EXE_FILES    => ['app.pl'],
-  PREREQ_PM    => {'Galileo' => '0.028'},
+  PREREQ_PM    => {'Galileo' => '0.037'},
   test         => {TESTS => 't/*.t'}
 );
