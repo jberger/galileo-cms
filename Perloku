@@ -1,2 +1,2 @@
 #!/bin/sh
-./app.pl daemon -l http://*:$PORT
+./app.pl daemon -p -l http://*:$PORT
